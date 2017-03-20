@@ -1,7 +1,7 @@
 # AndrSampleNetwork
-Used a network library - <a href="https://square.github.io/retrofit/" target="_blank">Retrofit2</a>
+Network library - <a href="https://square.github.io/retrofit/" target="_blank">Retrofit2</a>
 
-Used a image loader library - <a href="https://github.com/bumptech/glide" target="_blank">Glide</a>
+Image loader library - <a href="https://github.com/bumptech/glide" target="_blank">Glide</a>
 
 # Reference
 https://zeroturnaround.com/rebellabs/getting-started-with-retrofit-2/
